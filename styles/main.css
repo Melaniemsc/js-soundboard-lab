@@ -1,7 +1,7 @@
 body {
   max-width: 500px;
   margin: 0 auto;
-  background-color: #fafafa;
+  background-color: #000000;
   font-family: 'Exo 2', sans-serif;
   display: flex;
   justify-content: center;
@@ -9,7 +9,9 @@ body {
   flex-direction: column;
   height: 100vh;
 }
-
+h1 {
+  color: #ea422c;
+}
 #player div {
   display: inline-block;
   width: 111px;
